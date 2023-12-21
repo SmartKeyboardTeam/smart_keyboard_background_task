@@ -1,0 +1,1 @@
+[{"id":"cddb4358-9128-4c8c-9ec0-23f370a8d1ad","name":"Скрипт","command":"python C:\\Users\\egork\\Desktop\\hi.py","pin":2},{"id":"8b6739f9-2ace-44f0-9347-3300dcedb408","name":"Скрипт","command":"mspaint","pin":3}]
